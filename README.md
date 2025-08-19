@@ -40,11 +40,10 @@ poseidon/
 │   ├── errors.rs             # Custom error types and handling
 │   └── utils.rs              # Helper functions (parsing, logging, etc.)
 │
-├── tests/                    # Integration and unit tests
-│   ├── api_tests.rs
-│   └── ui_tests.rs
-│
-└── scripts/                  # Optional: deployment or setup scripts
+└── tests/                    # Integration and unit tests
+    ├── api_tests.rs
+    └── ui_tests.rs
+
 ```
 
 ## License
